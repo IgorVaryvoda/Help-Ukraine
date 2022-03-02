@@ -18,7 +18,10 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#327bba' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: 'title', content: 'Help Ukrainian army and refugees. Stop Russian aggression.' }],
+    ['meta', { property: 'og:image', content: 'https://cdn.earthroulette.com/help-ukraine/FMWRQvhXsAESunV.jpg?w=1280' }],
+    ['link', { rel: 'icon', href: 'https://cdn.earthroulette.com/help-ukraine/Flag_of_Ukraine.svg' }]
   ],
 
   /**
