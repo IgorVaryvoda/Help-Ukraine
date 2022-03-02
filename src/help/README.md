@@ -29,6 +29,14 @@ If you're more technical, you can use scripts like <a href="https://github.com/M
 ## Protest
 Protest against the barbaric Russian aggression. Show your support for Ukraine in your cities. Demand more sanctions for Russia and more aid to Ukraine from your government.
 
+## Petitions
+**Global**
+- <a href="https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine">Ask NATO to close the airspace over Ukraine</a>
+
+**UK**
+- [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
+- [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
+- [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
 
 ## Other lists and resources
 - <a href="https://github.com/EU-UA-Help/ua-help">Useful resources for those who would like to help Ukrainian refugees</a>
