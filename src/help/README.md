@@ -23,7 +23,7 @@ Help people fleeing russian war crime scenes.
 ## Help fight propaganda
 Stop Russian lies. If your work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open <a href="https://www.stop-russian-propaganda.com/">this website</a> and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down.
 
-If you're more technical, you can use scripts like <a href="https://github.com/MHProDev/MHDDoS">this</a> with residential socks proxies. The list of websites can be found on the <a href="https://t.me/itarmyofukraine2022">IT Army of Ukraine Telegram channel</a>. Marketers are also wanted to fight the informational war.
+If you're more technical, you can use scripts like <a href="https://github.com/MHProDev/MHDDoS">this</a> with residential socks proxies. The list of websites can be found on the <a href="https://t.me/itarmyofukraine2022">IT Army of Ukraine Telegram channel</a>. Marketers are also wanted to participate in information warfare.
 
 
 ## Protest
