@@ -31,7 +31,8 @@ module.exports = {
     search: false,
     logo: 'https://cdn.earthroulette.com/help-ukraine/Flag_of_Ukraine.svg',
     editLinks: true,
-    docsDir: '',
+    docsBranch: 'main',
+    docsDir: 'src',
     editLinkText: '',
     lastUpdated: false,
     nav: [

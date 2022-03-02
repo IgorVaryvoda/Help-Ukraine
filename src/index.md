@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage:
-tagline: Help stop the suffering of Ukrainian people.
+tagline: Make a difference. Help stop this madness
 actionText: How to help →
 actionLink: /help/
 footer: Made by Igor Varyvoda with 💔
@@ -11,5 +11,5 @@ On FEB 24, 2022, Russia (with Belarus as an ally) has launched an abhorrent mili
 ## Russia bombing civilians
 Hundreds of videos of <a href="https://www.nurnberg2022.org/en">WAR CRIMES</a>, more being commited each day.
 
-A small example:
+Example of what's going on in Ukraine right now:
 <iframe width="100%" height="780px" src="https://www.youtube.com/embed/YNW748pG0Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
