@@ -1,6 +1,3 @@
----
-sidebar: auto
----
 # Help Ukraine fight off Russian agression
 ## Help the Ukrainian army
 <ul>
