@@ -1,7 +1,7 @@
 ---
 sidebar: auto
 ---
-# Help Ukraine fight off Russian agression
+# How to Help Ukrainian people and army
 ## Help the Ukrainian army
 <ul>
   <li><a href="https://savelife.in.ua/en/donate/">Come back alive fund.</a> The most trusted NGO for helping the Ukrainian army.</li>
