@@ -72,7 +72,7 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
-    '@vuepress/google-gtag',
+    'google-gtag',
       {
         'ga': 'G-6VBBEXGS2Z' // UA-00000000-0
       }
