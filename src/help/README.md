@@ -21,7 +21,7 @@ Help people fleeing russian war crime scenes.
 </ul>
 
 ## Help fight propaganda
-Stop Russian lies. If your work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open <a href="https://www.stop-russian-propaganda.com/">this website</a> and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down.
+Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open <a href="https://www.stop-russian-propaganda.com/">this website</a> and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down.
 
 If you're more technical, you can use scripts like <a href="https://github.com/MHProDev/MHDDoS">this</a> with residential socks proxies. The list of websites can be found on the <a href="https://t.me/itarmyofukraine2022">IT Army of Ukraine Telegram channel</a>. Marketers are also wanted to participate in information warfare.
 
@@ -33,5 +33,5 @@ Protest against the barbaric Russian aggression. Show your support for Ukraine i
 ## Other lists and resources
 - <a href="https://github.com/EU-UA-Help/ua-help">Useful resources for those who would like to help Ukrainian refugees</a>
 - <a href="https://github.com/ukraine-not-war/stop-war">Stop war widget</a>
-- <a href="https://github.com/hejny/Ukraine">Bloody ukrainian flag modal</a>
+- <a href="https://github.com/hejny/Ukraine">Bloodied Ukrainian flag modal</a>
 - <a href="https://github.com/petrussola/help-ukraine-open-source">Help Ukraine open source</a> - a list of open source projects aimed at helping Ukraine.
