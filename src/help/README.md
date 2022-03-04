@@ -5,6 +5,7 @@ sidebar: auto
 ## Help the Ukrainian army
 
   - <a href="https://savelife.in.ua/en/donate/">Come back alive fund.</a> The most trusted NGO for helping the Ukrainian army.
+  - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - <a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi">Special Bank of Ukraine account to help the army</a>
   - <a href="https://twitter.com/Ukraine/status/1497594592438497282">Donate crypto to Ukraine</a>. Official government ฿BTC, ΞETH, $USDT wallets.
   - <a href="https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html">Join Ukraine's foreign legion</a>. Don't like what you see? Have military experience? Help stop Russian orcs with your expertise.
