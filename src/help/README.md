@@ -23,7 +23,7 @@ Help people fleeing russian war crime scenes.
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
 - <a href="https://www.ukrainenow.org/#googtrans(uk|en)">Ukraine Now</a> - a decentralized organization helping refugees.
 - <a href="https://mapahelp.me/">Mapa Help</a> - a map where you can offer help with transport, food, places to stay for Ukrainian refugees.
-- [Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
+- 🏠[Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
 - <a href="https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/">A list of charities that help Ukraine by WAPO.</a>
 - <a href="https://time.com/6151353/how-to-help-ukraine-people/">A list of charities that help Ukraine by Time.</a>
 
@@ -34,15 +34,19 @@ Stop Russian lies. If you work for a company that allows Russian propaganda (Met
 If you're more technical, you can use scripts like <a href="https://github.com/MHProDev/MHDDoS">this</a> with residential socks proxies. The list of websites can be found on the <a href="https://t.me/itarmyofukraine2022">IT Army of Ukraine Telegram channel</a>. Marketers are also wanted to participate in information warfare.
 
 
-## Protest
+## Protest & post on social media
 Protest against the barbaric Russian aggression. Show your support for Ukraine in your cities. Demand more sanctions for Russia and more aid to Ukraine from your government.
 Here's how to find an upcoming protest:
 - [Stop Putin](https://www.stopputin.net/). A website with a list of upcoming events
 - [Facebook Events](https://www.facebook.com/search/events/?q=ukraine)
 
+### Ask for a no-fly zone over Ukraine.
+Post on social media or contact your representatives via email.
+
 ## Petitions
 **Global**
 - <a href="https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine">Ask NATO to close the airspace over Ukraine</a>
+- [Open PayPal for Ukraine and block PayPal in russia](https://chng.it/tdz6kyZxRs)
 
 **UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
