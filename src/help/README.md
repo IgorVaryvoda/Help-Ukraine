@@ -18,7 +18,7 @@ sidebar: auto
 
 ## Help Ukrainian refugees
 Help people fleeing russian war crime scenes.
-
+- [Special Fundraising Account for Humanitarian Assistance to Ukrainians Affected by Russia’s Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - <a href="https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#">Comprehensive list of resources for refugees and people who want to help</a> - Groups and communities all over the web with information for refugees and people who want to help them.
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
 - <a href="https://www.ukrainenow.org/#googtrans(uk|en)">Ukraine Now</a> - a decentralized organization helping refugees.
