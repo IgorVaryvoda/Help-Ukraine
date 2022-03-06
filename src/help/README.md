@@ -7,9 +7,9 @@ sidebar: auto
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-  - 🛻[Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army.
+  - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army.
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets.
-  - 🪖 [Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html). Don't like what you see? Have military experience? Help stop Russian orcs with your expertise.
+  - [🪖Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html). Don't like what you see? Have military experience? Help stop Russian orcs with your expertise.
 
 
 **Regional**
@@ -21,11 +21,11 @@ sidebar: auto
 ## Help Ukrainian refugees
 Help people fleeing russian war crime scenes.
 - [Special Fundraising Account for Humanitarian Assistance to Ukrainians Affected by Russia’s Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
-- 📄[Comprehensive list of resources](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#) for refugees and people who want to help</a> - Groups and communities all over the web with information for refugees and people who want to help them.
+- [📄A comprehensive list of resources](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#) for refugees and people who want to help - groups and communities all over the web with information for refugees and people who want to help them.
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees.
 - [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees.
-- 🏠[Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
+- [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
 - [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/).
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/).
 
@@ -47,8 +47,8 @@ Post on social media or contact your representatives via email.
 
 ## Petitions
 **Global**
-- ❗[Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
-- [Open PayPal for Ukraine and block PayPal in russia](https://chng.it/tdz6kyZxRs)
+- [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+- [Open PayPal for Ukraine and block PayPal in Russia](https://chng.it/tdz6kyZxRs)
 
 **UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
