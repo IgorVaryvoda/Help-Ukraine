@@ -2,7 +2,7 @@
 
 [![RussianWarship](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://uahelp.me)
 
-[Edit the list](https://github.com/IgorVaryvoda/Help-Ukraine/blob/main/src/help/README.md)
+[Edit the list](https://github.com/IgorVaryvoda/Help-Ukraine/edit/main/src/help/README.md)
 
 ## Help the Ukrainian army
 
