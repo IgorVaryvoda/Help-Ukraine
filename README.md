@@ -64,6 +64,6 @@ Post on social media or contact your representatives via email.
 ## For website owners
 - [Stop war widget](https://github.com/ukraine-not-war/stop-war)
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
-- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship widget is gold.
+- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship badge is gold.
 - [Help Ukraine open source](https://github.com/petrussola/help-ukraine-open-source) - a list of open source projects aimed at helping Ukraine
 
