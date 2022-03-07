@@ -34,7 +34,7 @@ Help people fleeing russian war crime scenes.
 ## Help fight propaganda
 Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down.
 
-If you're more technical, you can use scripts like [this](https://github.com/MHProDev/MHDDoS) with residential socks proxies. The list of websites can be found on the [IT Army of Ukraine Telegram channel](https://t.me/itarmyofukraine2022). Marketers are also wanted to participate in information warfare.
+If you're more technical, you can use scripts like [this](https://github.com/MHProDev/MHDDoS) with residential socks proxies. The list of websites can be found on the[IT Army of Ukraine Telegram channel](https://t.me/itarmyofukraine2022). Marketers are also wanted to participate in information warfare.
 
 
 ## Protest & post on social media
@@ -48,14 +48,18 @@ Post on social media or contact your representatives via email.
 - [📃Follow this guide](https://supportukrainenow.org/post-on-social-media/post-1-request-no-fly-zone)
 
 ## Petitions
-**Global**
+**🌎Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+- [🚫🛢️Ban Russian Oil Imports](https://www.change.org/p/president-biden-ban-russian-oil-import-stop-the-war)
 - [Open PayPal for Ukraine and block PayPal in Russia](https://chng.it/tdz6kyZxRs)
 
-**UK**
+**🇬🇧UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
 - [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
 - [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
+
+**🇨🇦Canada**
+- [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
 ## Other lists and resources
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine)of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
