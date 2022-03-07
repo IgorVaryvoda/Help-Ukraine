@@ -58,8 +58,12 @@ Post on social media or contact your representatives via email.
 - [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
 
 ## Other lists and resources
+- [Another Curated List](https://github.com/dkuznetsov/help-ukraine)of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Useful resources](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
+
+## For website owners
 - [Stop war widget](https://github.com/ukraine-not-war/stop-war)
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
+- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship widget is gold.
 - [Help Ukraine open source](https://github.com/petrussola/help-ukraine-open-source) - a list of open source projects aimed at helping Ukraine
 
