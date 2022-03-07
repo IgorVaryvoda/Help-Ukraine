@@ -2,6 +2,8 @@
 sidebar: auto
 ---
 # How to Help Ukrainian people and army
+## QR codes for quick donation
+![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
