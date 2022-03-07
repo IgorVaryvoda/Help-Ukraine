@@ -45,6 +45,7 @@ Here's how to find an upcoming protest:
 
 ### Ask for a no-fly zone over Ukraine.
 Post on social media or contact your representatives via email.
+- [📃Follow this guide](https://supportukrainenow.org/post-on-social-media/post-1-request-no-fly-zone)
 
 ## Petitions
 **Global**
