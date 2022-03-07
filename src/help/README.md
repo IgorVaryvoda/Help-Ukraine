@@ -60,7 +60,7 @@ Post on social media or contact your representatives via email.
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine)of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Useful resources](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
 
-## For website owners
+## For developers
 - [Stop war widget](https://github.com/ukraine-not-war/stop-war)
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
 - [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship badge is gold.
