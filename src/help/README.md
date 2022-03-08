@@ -62,6 +62,7 @@ Post on social media or contact your representatives via email.
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
 ## Other lists and resources
+- [Stand With Ukraine](https://standforukraine.com/). A categorized list of charities that support Ukraine.
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Useful resources](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
 
