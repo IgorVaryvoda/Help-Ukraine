@@ -31,9 +31,12 @@ Help people fleeing russian war crime scenes.
 - [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/).
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/).
 
-## Get information from reliable sources
+## Get information from reliable sources & share it on social media
 - [Official Ukrainian website covering the war](https://war.ukraine.ua/)
 - [Shareable facts about the war](https://www.weareukraine.info/)
+### Ask for a no-fly zone over Ukraine.
+- [📃Follow this guide](https://supportukrainenow.org/post-on-social-media/post-1-request-no-fly-zone)
+
 
 ## Help fight propaganda
 Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down. Alternatively, visit [this website](https://help-ukraine-win.com/) for instructions.
@@ -41,15 +44,12 @@ Stop Russian lies. If you work for a company that allows Russian propaganda (Met
 If you're more technical, you can use scripts like [this](https://github.com/MHProDev/MHDDoS) with residential socks proxies. The list of websites can be found on the [IT Army of Ukraine Telegram channel](https://t.me/itarmyofukraine2022). Marketers are also wanted to participate in information warfare.
 
 
-## Protest & post on social media
+## Protest
 Protest against the barbaric Russian aggression. Show your support for Ukraine in your cities. Demand more sanctions for Russia and more aid to Ukraine from your government.
 Here's how to find an upcoming protest:
 - [Stop Putin](https://www.stopputin.net/). A website with a list of upcoming events
 - [Facebook Events](https://www.facebook.com/search/events/?q=ukraine)
 
-### Ask for a no-fly zone over Ukraine.
-Post on social media or contact your representatives via email.
-- [📃Follow this guide](https://supportukrainenow.org/post-on-social-media/post-1-request-no-fly-zone)
 
 ## Petitions
 **🌎 Global**
