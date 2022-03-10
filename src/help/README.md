@@ -24,12 +24,16 @@ Help people fleeing russian war crime scenes.
 - [Special Fundraising Account for Humanitarian Assistance to Ukrainians Affected by Russia’s Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄A comprehensive list of resources](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#) for refugees and people who want to help - groups and communities all over the web with information for refugees and people who want to help them.
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
+- [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine.
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees.
 - [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees.
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
 - [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/).
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/).
 
+## Get information from reliable sources
+- [Official Ukrainian website covering the war](https://war.ukraine.ua/)
+- [Shareable facts about the war](https://www.weareukraine.info/)
 
 ## Help fight propaganda
 Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down. Alternatively, visit [this website](https://help-ukraine-win.com/) for instructions.
