@@ -36,6 +36,8 @@ sidebar: auto
 
 
 ## Допоможіть боротися з пропагандою кацапів
+- [Відправте лист росіянину з фото війни](https://mail2ru.org/)
+
 [Гайд для не айтішніків](https://help-ukraine-win.com/).
 
 Якщо ви шарите, юзайте скрипт як [цей](https://github.com/MHProDev/MHDDoS) з residential socks проксі. Список сайтів для атаки можна знайти в  [ІТ Армії](https://t.me/itarmyofukraine2022).
