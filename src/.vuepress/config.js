@@ -38,34 +38,78 @@ module.exports = {
     docsDir: 'src',
     editLinkText: '',
     lastUpdated: false,
-    nav: [
-      {
-        text: 'Help the army',
-        link: '/help/#help-the-ukrainian-army',
-      },
-      {
-        text: 'Help refugees',
-        link: '/help/#help-ukrainian-refugees'
-      },
-      {
-        text: 'Russian War Crimes',
-        link: 'https://www.nurnberg2022.org/en'
-      }
-    ],
-    sidebar: {
-      '/help/': [
-        {
-          title: 'Help',
-          collapsable: false,
-          children: [
-            'help-ukrainian-refugees',
-            'help-the-ukrainian-army',
-          ]
+    locales: {
+      '/': {
+        label: 'English',
+        nav: [
+          {
+            text: 'Help the army',
+            link: '/help/#help-the-ukrainian-army',
+          },
+          {
+            text: 'Help refugees',
+            link: '/help/#help-ukrainian-refugees'
+          },
+          {
+            text: 'Russian War Crimes',
+            link: 'https://www.nurnberg2022.org/en'
+          }
+        ],
+        sidebar: {
+          '/help/': [
+            {
+              title: 'Help',
+              collapsable: false,
+              children: [
+                'help-ukrainian-refugees',
+                'help-the-ukrainian-army',
+              ]
+            }
+          ],
         }
-      ],
+      },
+      '/ua/': {
+        editLinkText: 'Редагувати сторінку',
+        selectText: 'Мова',
+        label: 'Українська',
+        nav: [
+          {
+            text: 'Допоможи ЗСУ',
+            link: '/ua/help/#допомогти-зсу',
+          },
+          {
+            text: 'Допоможи біженцям',
+            link: '/ua/help/#допомога-біженцям'
+          },
+          {
+            text: 'Воєнні злочини Росії',
+            link: 'https://www.nurnberg2022.org/en'
+          }
+        ],
+        sidebar: {
+          '/help/': [
+            {
+              title: 'Help',
+              collapsable: false,
+              children: [
+                'help-ukrainian-refugees',
+                'help-the-ukrainian-army',
+              ]
+            }
+          ],
+        }
+      }
     }
   },
-
+  locales: {
+    '/': {
+      lang:'en-US',
+    },
+    '/ua/': {
+      lang:'uk',
+      title: 'Допоможи Україні'
+    }
+    },
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
