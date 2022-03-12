@@ -2,7 +2,7 @@
 home: true
 heroImage:
 tagline:
-actionText: Як допомогти? →
+actionText: Допомогти →
 actionLink: /ua/help/
 footer: Made by Igor Varyvoda with 💔
 metaTitle: Допоможи Українській Армії та Біженцям
