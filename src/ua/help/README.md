@@ -23,7 +23,7 @@ sidebar: auto
 - [Рахунок НБУ для допомоги Українцям](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄Список ресурсів для біженців та тих, хто хоче допомогти](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#)
 - [Прихисток](https://prykhystok.in.ua/). Пошук житла на території України
-- [shelter4ua](https://www.shelter4ua.com/ua). пошук житла для біженців
+- [shelter4ua](https://www.shelter4ua.com/ua). пошук житла в ЄС
 - [UA Aid Centers](https://ua-aid-centers.com/). Збір гуманітарної допомоги
 - [Голуб миру для України](https://www.doveofpeace.ch/uk) - Швейцарська асоціація для гуманітарної допомоги Україні
 - [Help Ukraine Center](https://helpukraine.center/). Склад в Польщі для гум. допомоги
