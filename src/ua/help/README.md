@@ -10,7 +10,7 @@ sidebar: auto
   - [Рахунок НБУ для допомоги ЗСУ](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
   - [🛻Пекельні тачки](https://pekelnitachky.com/en). Сергій Притула збирає гроші на покупку транспорту для ЗСУ та Тер Оборони.
   - [Офіційні крипто гаманці України](https://twitter.com/Ukraine/status/1497594592438497282) (฿BTC, ΞETH, $USDT)
-  - [🪖Іноземний легіон](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html). Маєте колишніх військових друзів закордоном? Дайте їм цей лінк, впевнені, що кацапів смажити хочуть не тільки Українці.
+  - [🪖Іноземний легіон](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html). Маєте колишніх військових друзів закордоном? Дайте їм цей лінк, впевнені, що кацапів смажити хочуть не тільки Українці
 
 
 **Регіональна домога**
@@ -22,11 +22,13 @@ sidebar: auto
 ## Допомога біженцям
 - [Рахунок НБУ для допомоги Українцям](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄Список ресурсів для біженців та тих, хто хоче допомогти](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#)
+- [Прихисток](https://prykhystok.in.ua/). Пошук житла на території України
+- [shelter4ua](https://www.shelter4ua.com/ua). пошук житла для біженців
 - [UA Aid Centers](https://ua-aid-centers.com/). Збір гуманітарної допомоги
-- [Голуб миру для України](https://www.doveofpeace.ch/uk) - Швейцарська асоціація для гуманітарної допомоги Україні.
+- [Голуб миру для України](https://www.doveofpeace.ch/uk) - Швейцарська асоціація для гуманітарної допомоги Україні
 - [Help Ukraine Center](https://helpukraine.center/). Склад в Польщі для гум. допомоги
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - децентралізована організація для допомоги біженцям
-- [🗺️Mapa Help](https://mapahelp.me/) - Карта, де можна попросити або запропонувати допомогу з житлом, транспортом та будь-чим.
+- [🗺️Mapa Help](https://mapahelp.me/) - Карта, де можна попросити або запропонувати допомогу з житлом, транспортом та будь-чим
 - [🏠Прихистіть Українців та допомога на місцях](https://supportukrainenow.org/refuge-for-ukrainians)
 
 ## Отримуйте інфу з перевірених джерел та розшарюйте в соціалках
@@ -67,10 +69,10 @@ sidebar: auto
 ## Інші списки
 - [Stand With Ukraine](https://standforukraine.com/). Категоризований список благодійних організацій для допомоги Українцям.
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
-- [Useful resources](https://github.com/EU-UA-Help/ua-help) для допомоги біженцям.
+- [Корисні ресурси](https://github.com/EU-UA-Help/ua-help) для допомоги біженцям
 
 ## Для девелоперів
 - [Stop war widget](https://github.com/ukraine-not-war/stop-war)
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
-- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship badge is gold.
+- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship badge is gold
 - [Help Ukraine open source](https://github.com/petrussola/help-ukraine-open-source) - a list of open source projects aimed at helping Ukraine
