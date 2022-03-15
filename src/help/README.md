@@ -42,7 +42,7 @@ Help people fleeing russian war crime scenes.
 ## Help fight propaganda
 - [Send an e-mail to Russians and ask them to open their eyes to the war unfolding!](https://mail2ru.org/)
 
-Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down. Alternatively, visit [this website](https://help-ukraine-win.com/) for instructions.
+Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down. Alternatively, visit [this website](https://arriven.github.io/db1000n/) for instructions.
 
 If you're more technical, you can use scripts like [this](https://github.com/MHProDev/MHDDoS) with residential socks proxies. The list of websites can be found on the [IT Army of Ukraine Telegram channel](https://t.me/itarmyofukraine2022). Marketers are also wanted to participate in information warfare.
 
