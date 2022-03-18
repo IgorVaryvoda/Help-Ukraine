@@ -33,6 +33,11 @@ sidebar: auto
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - децентралізована організація для допомоги біженцям
 - [🗺️Mapa Help](https://mapahelp.me/) - Карта, де можна попросити або запропонувати допомогу з житлом, транспортом та будь-чим
 
+## Пошук роботи
+- [Hire for Ukraine](https://hireforukraine.org/)
+- [UaTalents](https://www.uatalents.com/). Робота в ЄС
+- [Cписок сайтів](https://hireforukraine.org/helpful-resources) для пошуку роботи
+- [Ще один список](https://infohelpua.com/#job)
 
 ## Отримуйте інфу з перевірених джерел та розшарюйте в соціалках
 - [Офіційний сайт України про війну](https://war.ukraine.ua/)
@@ -70,6 +75,7 @@ sidebar: auto
 
 ## Інші списки
 - [Help Ukraine Now](https://helpukrainenow.info/)
+- [InfoHelpUa](https://infohelpua.com/). Багато корисної інформації для Українців.
 - [Stand With Ukraine](https://standforukraine.com/). Категоризований список благодійних організацій для допомоги Українцям.
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Корисні ресурси](https://github.com/EU-UA-Help/ua-help) для допомоги біженцям

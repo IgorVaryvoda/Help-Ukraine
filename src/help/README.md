@@ -34,6 +34,12 @@ Help people fleeing russian war crime scenes.
 - [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/).
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/).
 
+
+## Job offers
+- [Hire for Ukraine](https://hireforukraine.org/). Portfolios of Ukrainians available for hire.
+- [UaTalents](https://www.uatalents.com/). Post a job offer for Ukrainians
+- [A list](https://hireforukraine.org/helpful-resources) of websites
+
 ## Get information from reliable sources & share it on social media
 - [Official Ukrainian website covering the war](https://war.ukraine.ua/)
 - [Shareable facts about the war](https://www.weareukraine.info/)
