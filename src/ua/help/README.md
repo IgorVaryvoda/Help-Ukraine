@@ -68,6 +68,7 @@ sidebar: auto
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
 ## Інші списки
+- [Help Ukraine Now](https://helpukrainenow.info/)
 - [Stand With Ukraine](https://standforukraine.com/). Категоризований список благодійних організацій для допомоги Українцям.
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Корисні ресурси](https://github.com/EU-UA-Help/ua-help) для допомоги біженцям
