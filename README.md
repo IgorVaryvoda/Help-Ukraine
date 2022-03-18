@@ -26,6 +26,7 @@ Help people fleeing russian war crime scenes.
 - [Special Fundraising Account for Humanitarian Assistance to Ukrainians Affected by Russia’s Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄A comprehensive list of resources](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#) for refugees and people who want to help - groups and communities all over the web with information for refugees and people who want to help them.
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
+- [Dove of Peace for Ukraine](https://www.doveofpeace.ch/en). Swiss association founded with the aim of alleviating the suffering of the Ukrainian population affected by the war.
 - [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine.
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees.
 - [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees.
@@ -41,7 +42,9 @@ Help people fleeing russian war crime scenes.
 
 
 ## Help fight propaganda
-Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down. Alternatively, visit [this website](https://help-ukraine-win.com/) for instructions.
+- [Send an e-mail to Russians and ask them to open their eyes to the war unfolding!](https://mail2ru.org/)
+
+Stop Russian lies. If you work for a company that allows Russian propaganda (Meta, Google, Microsoft), please pressure your management to block Russian propaganda. If you're a regular user, just open [this website](https://www.stop-russian-propaganda.com/) and keep the tab open. This will flood Russian propaganda websites and if enough people do it, it can take them down. Alternatively, visit [this website](https://arriven.github.io/db1000n/) for instructions.
 
 If you're more technical, you can use scripts like [this](https://github.com/MHProDev/MHDDoS) with residential socks proxies. The list of websites can be found on the [IT Army of Ukraine Telegram channel](https://t.me/itarmyofukraine2022). Marketers are also wanted to participate in information warfare.
 
@@ -57,7 +60,6 @@ Here's how to find an upcoming protest:
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [🚫🛢️Ban Russian Oil Imports](https://www.change.org/p/president-biden-ban-russian-oil-import-stop-the-war)
-- [Open PayPal for Ukraine and block PayPal in Russia](https://chng.it/tdz6kyZxRs)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
@@ -68,6 +70,7 @@ Here's how to find an upcoming protest:
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
 ## Other lists and resources
+- [Help Ukraine Now](https://helpukrainenow.info/)
 - [Stand With Ukraine](https://standforukraine.com/). A categorized list of charities that support Ukraine.
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Useful resources](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
