@@ -28,6 +28,8 @@ Help people fleeing russian war crime scenes.
 - [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine.
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees.
 - [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees.
+- [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing.
+- [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees.
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
 - [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/).
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/).

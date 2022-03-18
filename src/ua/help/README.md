@@ -23,6 +23,7 @@ sidebar: auto
 - [Рахунок НБУ для допомоги Українцям](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [Список ресурсів для біженців та тих, хто хоче допомогти](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#)
 - [Прихисток](https://prykhystok.in.ua/). Пошук житла на території України
+- [https://www.ukrainetakeshelter.com/](https://www.ukrainetakeshelter.com/). Пошук житла в ЄС
 - [shelter4ua](https://www.shelter4ua.com/ua). Пошук житла в ЄС
 - [UkraineSupport](https://ukrainesupport.net/uk/). Пошук житла в Польщі
 - [Прихистіть Українців та допомога на місцях](https://supportukrainenow.org/refuge-for-ukrainians)
