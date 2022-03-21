@@ -65,7 +65,7 @@ Here's how to find an upcoming protest:
 ## Petitions
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
-- [🚫🛢️Ban Russian Oil Imports](https://www.change.org/p/president-biden-ban-russian-oil-import-stop-the-war)
+- [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
