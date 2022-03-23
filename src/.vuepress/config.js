@@ -85,19 +85,26 @@ module.exports = {
             text: 'Воєнні злочини Росії',
             link: 'https://www.nurnberg2022.org/en'
           }
-        ],
-        sidebar: {
-          '/help/': [
-            {
-              title: 'Help',
-              collapsable: false,
-              children: [
-                'help-ukrainian-refugees',
-                'help-the-ukrainian-army',
-              ]
-            }
-          ],
-        }
+        ]
+      },
+      '/sr/': {
+        editLinkText: 'Уреди страницу',
+        selectText: 'Језик',
+        label: 'Српски',
+        nav: [
+          {
+            text: 'Помозите војсци',
+            link: '/sr/help/#помозите-војсци',
+          },
+          {
+            text: 'Помоћ за избеглице',
+            link: '/sr/help/#помоћ-избеглицама'
+          },
+          {
+            text: 'Ратни злочини Русије',
+            link: 'https://www.nurnberg2022.org/en'
+          }
+        ]
       }
     }
   },
@@ -108,6 +115,10 @@ module.exports = {
     '/ua/': {
       lang:'uk',
       title: 'Допоможи Україні'
+    },
+    '/sr/': {
+      lang:'sr',
+      title: 'Помозите Украјини'
     }
     },
   /**
