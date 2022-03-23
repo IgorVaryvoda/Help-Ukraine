@@ -13,11 +13,11 @@ sidebar: auto
   - [🪖Легија странаца](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
 
 
-**Регіональна домога**
-- [Тепле місто](https://warm.if.ua/uk/projects/support_for_the_territorial_defense_forces). Тер. Оборона Івано-Франківська.
+**Регионална помоћ**
+- [Топли град](https://warm.if.ua/uk/projects/support_for_the_territorial_defense_forces)
 
-**Мерч**
-- [Saint Javelin](https://www.saintjavelin.com/). 100% профіту жертвується на гум. допомогу.
+**Merch**
+- [Saint Javelin](https://www.saintjavelin.com/). 100% добити донира се за хуманитарну помоћ.
 
 ## Помоћ избеглицама
 - [НБУ рачун за помоћ Украјинцима](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
