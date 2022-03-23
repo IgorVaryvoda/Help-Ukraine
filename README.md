@@ -9,6 +9,7 @@
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
+  - [Kolo](https://koloua.com/en/). Kolo quickly supplies the essential equipment to ukrainian soldiers in hot spots.
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army.
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets.
@@ -30,9 +31,17 @@ Help people fleeing russian war crime scenes.
 - [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine.
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees.
 - [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees.
+- [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing.
+- [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees.
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
 - [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/).
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/).
+
+
+## Job offers
+- [Hire for Ukraine](https://hireforukraine.org/). Portfolios of Ukrainians available for hire.
+- [UaTalents](https://www.uatalents.com/). Post a job offer for Ukrainians
+- [A list](https://hireforukraine.org/helpful-resources) of websites
 
 ## Get information from reliable sources & share it on social media
 - [Official Ukrainian website covering the war](https://war.ukraine.ua/)
@@ -59,7 +68,7 @@ Here's how to find an upcoming protest:
 ## Petitions
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
-- [🚫🛢️Ban Russian Oil Imports](https://www.change.org/p/president-biden-ban-russian-oil-import-stop-the-war)
+- [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
@@ -70,8 +79,9 @@ Here's how to find an upcoming protest:
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
 ## Other lists and resources
-- [Help Ukraine Now](https://helpukrainenow.info/)
-- [Stand With Ukraine](https://standforukraine.com/). A categorized list of charities that support Ukraine.
+- [HelpUaNow](https://www.helpuanow.org/). Has smaller charities
+- [Help Ukraine Now](https://helpukrainenow.info/). Nicely designed
+- [Stand With Ukraine](https://standforukraine.com/). A categorized list of charities that support Ukraine
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Useful resources](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
 
@@ -80,4 +90,5 @@ Here's how to find an upcoming protest:
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
 - [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship badge is gold.
 - [Help Ukraine open source](https://github.com/petrussola/help-ukraine-open-source) - a list of open source projects aimed at helping Ukraine
+
 
