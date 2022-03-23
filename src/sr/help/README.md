@@ -21,7 +21,7 @@ sidebar: auto
 
 ## Помоћ избеглицама
 - [НБУ рачун за помоћ Украјинцима](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
-- [Списак ресурса за избеглице и оне који желе да помогну](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#)
+- [Списак ресурса за избеглице и оне који желе да помогну](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub)
 - [Склониште](https://prykhystok.in.ua/). Тражите становање у Украјини
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). Смештај у ЕУ
 - [shelter4ua](https://www.shelter4ua.com/ua). Смештај у ЕУ

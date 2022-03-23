@@ -105,6 +105,25 @@ module.exports = {
             link: 'https://www.nurnberg2022.org/en'
           }
         ]
+      },
+      '/pl/': {
+        editLinkText: 'Edytuj stronę',
+        selectText: 'Język',
+        label: 'Polski',
+        nav: [
+          {
+            text: 'Pomóż armii ukraińskiej',
+            link: '/pl/help/#kody-qr-do-szybkiej-darowizny',
+          },
+          {
+            text: 'Pomóż uchodźcom',
+            link: '/pl/help/#pomoz-ukrainskim-uchodzcom'
+          },
+          {
+            text: 'Rosyjskie zbrodnie wojenne',
+            link: 'https://www.nurnberg2022.org/en'
+          }
+        ]
       }
     }
   },
@@ -115,6 +134,10 @@ module.exports = {
     '/ua/': {
       lang:'uk',
       title: 'Допоможи Україні'
+    },
+    '/pl/': {
+      lang:'pl',
+      title: 'Pomóż Ukrainie'
     },
     '/sr/': {
       lang:'sr',

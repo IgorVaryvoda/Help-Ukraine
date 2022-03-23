@@ -7,6 +7,7 @@ sidebar: auto
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
+  - [Kolo](https://koloua.com/en/). Kolo quickly supplies the essential equipment to ukrainian soldiers in hot spots.
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army.
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets.
@@ -22,7 +23,7 @@ sidebar: auto
 ## Help Ukrainian refugees
 Help people fleeing russian war crime scenes.
 - [Special Fundraising Account for Humanitarian Assistance to Ukrainians Affected by Russia’s Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
-- [📄A comprehensive list of resources](https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit#) for refugees and people who want to help - groups and communities all over the web with information for refugees and people who want to help them.
+- [📄A comprehensive list of resources](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub) for refugees and people who want to help - groups and communities all over the web with information for refugees and people who want to help them.
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
 - [Dove of Peace for Ukraine](https://www.doveofpeace.ch/en). Swiss association founded with the aim of alleviating the suffering of the Ukrainian population affected by the war.
 - [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine.
