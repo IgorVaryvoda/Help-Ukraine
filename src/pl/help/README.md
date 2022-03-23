@@ -21,7 +21,6 @@ sidebar: auto
 - [Saint Javelin](https://www.saintjavelin.com/). 100% zysku trafia do kanadyjskiej organizacji Help to Help, która z kolei pomaga ukraińskim medykom
 
 ## Pomóż ukraińskim uchodźcom
-Pomóż ludziom uciekać z rosyjskich miejsc zbrodni wojennych.
 - [OFICJALNY PORTAL RZĄDOWY DOT. POMOCY UKRAINIE](https://pomagamukrainie.gov.pl)
 - [Zbiórka Banku Gospodarstwa Krajowego](https://www.bgk.pl/aktualnosc/bgk-we-wspolpracy-z-narodowym-bankiem-ukrainy-otworzyl-specjalny-rachunek-do-wplat-na-pomoc-dla-ukrainy/?p=&cHash=4dfc5390e8db954dcdb87177d91ed7b0). Wpłaty trafiają na rachunek Narodowego Banku Ukrainy; istnieje możliwość płatności BLIKiem
 - [Zbiórka Polskiej Akcji Humanitarnej](https://www.siepomaga.pl/pah-ukraina). Obejmuje pomoc uchodźcom w Polsce i osobom, które pozostają na Ukrainie
