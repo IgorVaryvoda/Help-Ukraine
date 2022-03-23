@@ -2,6 +2,11 @@
 sidebar: auto
 ---
 # Як допомогти Українській армії та біженцям
+
+## Інформація для біженців
+- [Список необхідної інформації для біженців в ЄС](https://ukraineisforever.notion.site/4653c347e8d343199c6fff96530ca5f6)
+- [Список ресурсів для Українців в Україні](https://ukraineisforever.notion.site/ukraineisforever/925902b5c48a4d7589fdeff2deba6233)
+
 ## QR коди
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
 ## Допомогти ЗСУ
