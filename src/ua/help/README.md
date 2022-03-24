@@ -13,16 +13,18 @@ sidebar: auto
   - [Повернись живим](https://savelife.in.ua/en/donate/)
   - [Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [Рахунок НБУ для допомоги ЗСУ](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-  - [🛻Пекельні тачки](https://pekelnitachky.com/en). Сергій Притула збирає гроші на покупку транспорту для ЗСУ та Тер Оборони.
+  - [Коло](https://koloua.com/en/). Швидко організовуємо допомогу ЗСУ, доставляємо необхідне обладнання українським воїнам в пекельних точках
+  - [Leleka](https://leleka.care/). Аптечки
+  - [🛻Пекельні тачки](https://pekelnitachky.com/en). Сергій Притула збирає гроші на покупку транспорту для ЗСУ та Тер Оборони
   - [Офіційні крипто гаманці України](https://twitter.com/Ukraine/status/1497594592438497282) (฿BTC, ΞETH, $USDT)
   - [🪖Іноземний легіон](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html). Маєте колишніх військових друзів закордоном? Дайте їм цей лінк, впевнені, що кацапів смажити хочуть не тільки Українці
 
 
 **Регіональна домога**
-- [Тепле місто](https://warm.if.ua/uk/projects/support_for_the_territorial_defense_forces). Тер. Оборона Івано-Франківська.
+- [Тепле місто](https://warm.if.ua/uk/projects/support_for_the_territorial_defense_forces). Тер. Оборона Івано-Франківська
 
 **Мерч**
-- [Saint Javelin](https://www.saintjavelin.com/). 100% профіту жертвується на гум. допомогу.
+- [Saint Javelin](https://www.saintjavelin.com/). 100% профіту жертвується на гум. допомогу
 
 ## Допомога біженцям
 - [Рахунок НБУ для допомоги Українцям](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
@@ -82,7 +84,7 @@ sidebar: auto
 ## Інші списки
 - [Help Ukraine Now](https://helpukrainenow.info/)
 - [InfoHelpUa](https://infohelpua.com/). Багато корисної інформації для Українців.
-- [Stand With Ukraine](https://standforukraine.com/). Категоризований список благодійних організацій для допомоги Українцям.
+- [Stand With Ukraine](https://standforukraine.com/). Категоризований список благодійних організацій для допомоги Українцям
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Корисні ресурси](https://github.com/EU-UA-Help/ua-help) для допомоги біженцям
 

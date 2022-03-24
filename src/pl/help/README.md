@@ -8,6 +8,7 @@ sidebar: auto
   - [Wróć żywym](https://savelife.in.ua/en/donate/). Najbardziej zaufana organizacja pozarządowa pomagająca armii ukraińskiej
   - [Darowizna na rzecz Organizacji Rozwoju, Bezpieczeństwa i Zrównoważonego Rozwoju](https://odss.ee/blog/help-ukraine)
   - [Kolo](https://koloua.com/en/). Koło szybko dostarcza niezbędny sprzęt żołnierzom ukraińskim w newralgicznych punktach
+  - [Leleka](https://leleka.care/). Zestawy pierwszej pomocy
   - [Specjalne konto Banku Ukrainy na pomoc wojsku](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
   - [🛻Hell Rides](https://pekelnitachky.com/en). Przekaż pieniądze na zakup SUV-ów, pickupów i quadów dla Sił Zbrojnych, jednostek Obrony Terytorialnej, Gwardii Narodowej i innych jednostek wojskowych Armii Ukraińskiej
   - [Przekaż krypto](https://twitter.com/Ukraine/status/1497594592438497282). Oficjalne rządowe portfele ฿BTC, ΞETH, USDT
