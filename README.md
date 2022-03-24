@@ -64,6 +64,10 @@ Here's how to find an upcoming protest:
 - [Stop Putin](https://www.stopputin.net/). A website with a list of upcoming events
 - [Facebook Events](https://www.facebook.com/search/events/?q=ukraine)
 
+## Don't fund war
+Boycott companies still doing business in Russia
+- [Don't fund war](https://www.dontfundwar.com/). A list of companies still doing business in Russia
+- [Chrome extension](https://github.com/petrussola/boycott-brands-supporting-war) to boycott brands
 
 ## Petitions
 **🌎 Global**

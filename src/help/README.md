@@ -37,7 +37,7 @@ sidebar: auto
 - [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/)
 
 
-## Job offers
+## Hire Ukrainians
 - [Hire for Ukraine](https://hireforukraine.org/). Portfolios of Ukrainians available for hire.
 - [UaTalents](https://www.uatalents.com/). Post a job offer for Ukrainians
 - [A list](https://hireforukraine.org/helpful-resources) of websites
@@ -56,6 +56,10 @@ Stop Russian lies. If you work for a company that allows Russian propaganda (Met
 
 If you're more technical, you can use scripts like [this](https://github.com/MHProDev/MHDDoS) with residential socks proxies. The list of websites can be found on the [IT Army of Ukraine Telegram channel](https://t.me/itarmyofukraine2022). Marketers are also wanted to participate in information warfare.
 
+## Don't fund war
+Boycott companies still doing business in Russia
+- [Don't fund war](https://www.dontfundwar.com/). A list of companies still doing business in Russia
+- [Chrome extension](https://github.com/petrussola/boycott-brands-supporting-war) to boycott brands
 
 ## Protest
 Protest against the barbaric Russian aggression. Show your support for Ukraine in your cities. Demand more sanctions for Russia and more aid to Ukraine from your government.
