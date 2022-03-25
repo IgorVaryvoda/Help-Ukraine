@@ -38,8 +38,9 @@ sidebar: auto
 
 
 ## Hire Ukrainians
-- [Hire for Ukraine](https://hireforukraine.org/). Portfolios of Ukrainians available for hire.
+- [Hire for Ukraine](https://hireforukraine.org/). Portfolios of Ukrainians available for hire
 - [UaTalents](https://www.uatalents.com/). Post a job offer for Ukrainians
+- [Fuzzboard](https://fuzzboard.com/ukraine). Tech jobs for anyone escaping Ukraine
 - [A list](https://hireforukraine.org/helpful-resources) of websites
 
 ## Get information from reliable sources & share it on social media

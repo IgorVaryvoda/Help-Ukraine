@@ -40,9 +40,10 @@ sidebar: auto
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - децентралізована організація для допомоги біженцям
 - [🗺️Mapa Help](https://mapahelp.me/). Карта, де можна попросити або запропонувати допомогу з житлом, транспортом та будь-чим
 
-## Пошук роботи
+## Пошук роботи закордоном
 - [Hire for Ukraine](https://hireforukraine.org/)
 - [UaTalents](https://www.uatalents.com/). Робота в ЄС
+- [Fuzzboard](https://fuzzboard.com/ukraine). Для IT спеціалістів
 - [Cписок сайтів](https://hireforukraine.org/helpful-resources) для пошуку роботи
 - [Ще один список](https://infohelpua.com/#job)
 
