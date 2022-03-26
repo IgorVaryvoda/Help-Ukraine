@@ -19,7 +19,7 @@ sidebar: auto
 - [Teple Misto](https://warm.if.ua/uk/projects/support_for_the_territorial_defense_forces). Siły obrony terytorialnej Iwano-Frankiwska
 
 **Merch**
-- [Saint Javelin](https://www.saintjavelin.com/). 100% zysku trafia do kanadyjskiej organizacji Help to Help, która z kolei pomaga ukraińskim medykom
+- [Saint Javelin](https://www.saintjavelin.com/). 100% zysku trafia do kanadyjskiej organizacji Help to Help, która pomaga ukraińskim medykom
 
 ## Pomóż ukraińskim uchodźcom
 - [OFICJALNY PORTAL RZĄDOWY DOT. POMOCY UKRAINIE](https://pomagamukrainie.gov.pl)
@@ -44,6 +44,11 @@ sidebar: auto
 - [Hire for Ukraine](https://hireforukraine.org/). Do wypożyczenia teczki Ukraińców
 - [UaTalents](https://www.uatalents.com/). Opublikuj ofertę pracy dla Ukraińców
 - [Lista](https://hireforukraine.org/helpful-resources) stron internetowych
+
+## Nie finansuj wojny
+Bojkotują firmy nadal prowadzące interesy w Rosji
+- [Don't fund war](https://www.dontfundwar.com/). Lista firm, które nadal prowadzą działalność w Rosji
+- [Rozszerzenie do Chrome ](https://github.com/petrussola/boycott-brands-supporting-war) do bojkotu marek
 
 ## Pozyskuj informacje z wiarygodnych źródeł i udostępniaj je w mediach społecznościowych
 - [Oficjalna ukraińska strona internetowa poświęcona wojnie](https://war.ukraine.ua/)

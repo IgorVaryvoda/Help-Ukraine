@@ -47,6 +47,10 @@ sidebar: auto
 - [Cписок сайтів](https://hireforukraine.org/helpful-resources) для пошуку роботи
 - [Ще один список](https://infohelpua.com/#job)
 
+## Бойкот компаній, які працюють з росією
+- [Don't fund war](https://www.dontfundwar.com/). Список компаній, які продовжують працювати в Росії
+- [Розширення Chrome ](https://github.com/petrussola/boycott-brands-supporting-war) для бойкоту брендів
+
 ## Отримуйте інфу з перевірених джерел та розшарюйте в соціалках
 - [Офіційний сайт України про війну](https://war.ukraine.ua/)
 - [Факти про війну](https://www.weareukraine.info/).

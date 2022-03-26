@@ -39,6 +39,10 @@ sidebar: auto
 - [Списак сајтова](https://hireforukraine.org/helpful-resources) за тражење посла
 - [Списак сајтова](https://infohelpua.com/#job)
 
+## Бојкотујте компаније које раде са Русијом
+- [Don't fund war](https://www.dontfundwar.com/). Списак компанија које настављају да раде у Русији
+- [додатак Chrome](https://github.com/petrussola/boycott-brands-supporting-war) за бојкот брендова
+
 ## Добијте информације из проверених извора и поделите их на друштвеним мрежама
 - [Званични сајт Украјине о рату](https://war.ukraine.ua/)
 - [Чињенице о рату](https://www.weareukraine.info/).

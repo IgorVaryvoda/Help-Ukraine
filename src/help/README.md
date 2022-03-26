@@ -3,7 +3,9 @@ sidebar: auto
 ---
 # How to Help Ukrainian people and army
 ## QR codes for quick donation
+
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
+
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
@@ -33,8 +35,6 @@ sidebar: auto
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing
 - [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
-- [A list of charities that help Ukraine by WAPO](https://www.washingtonpost.com/world/2022/02/27/how-to-help-ukraine/)
-- [A list of charities that help Ukraine by Time](https://time.com/6151353/how-to-help-ukraine-people/)
 
 
 ## Hire Ukrainians
