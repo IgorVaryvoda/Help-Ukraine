@@ -10,6 +10,7 @@ sidebar: auto
   - [Kolo](https://koloua.com/en/). Koło szybko dostarcza niezbędny sprzęt żołnierzom ukraińskim w newralgicznych punktach
   - [Leleka](https://leleka.care/). Zestawy pierwszej pomocy
   - [Specjalne konto Banku Ukrainy na pomoc wojsku](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+  - [Car for Army](https://www.carforarmy.in.ua/). Podaruj swój samochód ukraińskim obrońcom
   - [🛻Hell Rides](https://pekelnitachky.com/en). Przekaż pieniądze na zakup SUV-ów, pickupów i quadów dla Sił Zbrojnych, jednostek Obrony Terytorialnej, Gwardii Narodowej i innych jednostek wojskowych Armii Ukraińskiej
   - [Przekaż krypto](https://twitter.com/Ukraine/status/1497594592438497282). Oficjalne rządowe portfele ฿BTC, ΞETH, USDT
   - [🪖Dołącz do obcego legionu Ukrainy](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html).

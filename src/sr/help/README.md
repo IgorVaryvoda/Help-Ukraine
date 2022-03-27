@@ -8,6 +8,7 @@ sidebar: auto
   - [Врати се жив](https://savelife.in.ua/en/donate/)
   - [Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [НБУ рачун за помоћ Оружаним снагама](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+  - [Car for Army](https://www.carforarmy.in.ua/). Донирајте свој аутомобил украјинским браниоцима
   - [🛻Hell rides](https://pekelnitachky.com/en). Куповина возила за војску
   - [Званични крипто новчаници Украјине](https://twitter.com/Ukraine/status/1497594592438497282) (฿BTC, ΞETH, $USDT)
   - [🪖Легија странаца](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
