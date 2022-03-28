@@ -83,8 +83,8 @@ So finden Sie einen bevorstehenden Protest:
 - [Eine weitere kuratierte Liste](https://github.com/dkuznetsov/help-ukraine) der Hilfeempfänger - Organisationen, Regierungen und Initiativen - für die Menschen in der Ukraine
 - [Nützliche Ressourcen](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
 
-## For developers
+## Für Softwareentwickler
 - [Stop war widget](https://github.com/ukraine-not-war/stop-war)
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
-- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russian warship badge is gold.
-- [Help Ukraine open source](https://github.com/petrussola/help-ukraine-open-source) - a list of open source projects aimed at helping Ukraine
+- [Banners and Github widgets](https://github.com/vshymanskyy/StandWithUkraine). Russisches Kriegsschiff badge ist Gold
+- [Help Ukraine open source](https://github.com/petrussola/help-ukraine-open-source). Eine Liste von Open-Source-Projekten, die darauf abzielen, der Ukraine zu helfen
