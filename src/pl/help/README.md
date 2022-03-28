@@ -64,6 +64,7 @@ Bojkotują firmy nadal prowadzące interesy w Rosji
 
 
 ## Petycji
+- [Apel do premiera o zamknięcie granicy dla tirów do Rosji](https://www.petycjeonline.com/apel_do_premiera_o_zamknicie_granicy_dla_tirow_do_rosj)
 - [Lista petycji](https://supportukrainenow.org/translate-and-share-this/jak-pomc-ukrainie-znajdujc-si-poza-jej-granicami#c720867424994a4f88cc943299f800ec)
 
 ## Inne listy i zasoby
