@@ -31,8 +31,8 @@ sidebar: auto
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
 - [Dove of Peace for Ukraine](https://www.doveofpeace.ch/en). Swiss association founded with the aim of alleviating the suffering of the Ukrainian population affected by the war.
 - [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine
-- [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees
-- [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees
+- [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)). A decentralized organization helping refugees
+- [🗺️Mapa Help](https://mapahelp.me/). A map where you can offer help with transport, food, places to stay for Ukrainian refugees
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing
 - [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)

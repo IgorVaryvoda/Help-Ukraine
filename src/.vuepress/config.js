@@ -40,7 +40,8 @@ module.exports = {
     lastUpdated: false,
     locales: {
       '/': {
-        label: 'English',
+        selectText: '🇬🇧 Language',
+        label: '🇬🇧 English',
         nav: [
           {
             text: 'Help the army',
@@ -70,8 +71,8 @@ module.exports = {
       },
       '/ua/': {
         editLinkText: 'Редагувати сторінку',
-        selectText: 'Мова',
-        label: 'Українська',
+        selectText: '🇺🇦 Мова',
+        label: '🇺🇦 Українська',
         nav: [
           {
             text: 'Інфо для біженців',
@@ -93,8 +94,8 @@ module.exports = {
       },
       '/de/': {
         editLinkText: 'Seite bearbeiten',
-        selectText: 'Sprache',
-        label: 'Deutsch',
+        selectText: '🇩🇪 Sprache',
+        label: '🇩🇪 Deutsch',
         nav: [
           {
             text: 'Helfen Sie der Armee',
@@ -110,10 +111,29 @@ module.exports = {
           }
         ]
       },
+      '/es/': {
+        editLinkText: 'Editar la página',
+        selectText: '🇪🇸 Lengua',
+        label: '🇪🇸 Español',
+        nav: [
+          {
+            text: 'Ayuda al ejercito ',
+            link: '/es/help/#ayuda-al-ejercito-ucraniano',
+          },
+          {
+            text: 'Ayudar a las refugiadas',
+            link: '/es/help/#ayuda-a-los-refugiados-ucranianos'
+          },
+          {
+            text: 'Crímenes de guerra rusos ',
+            link: 'https://www.nurnberg2022.org/en'
+          }
+        ]
+      },
       '/sr/': {
         editLinkText: 'Уреди страницу',
-        selectText: 'Језик',
-        label: 'Српски',
+        selectText: '🇷🇸 Језик',
+        label: '🇷🇸 Српски',
         nav: [
           {
             text: 'Помозите војсци',
@@ -131,8 +151,8 @@ module.exports = {
       },
       '/pl/': {
         editLinkText: 'Edytuj stronę',
-        selectText: 'Język',
-        label: 'Polski',
+        selectText: '🇵🇱 Język',
+        label: '🇵🇱 Polski',
         nav: [
           {
             text: 'Pomóż armii ukraińskiej',
@@ -161,6 +181,10 @@ module.exports = {
     '/de/': {
       lang:'de',
       title: 'Helfen Sie der Ukraine'
+    },
+    '/es/': {
+      lang:'es',
+      title: 'Ayuda a Ucrania'
     },
     '/pl/': {
       lang:'pl',
