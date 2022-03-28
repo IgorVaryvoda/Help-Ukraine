@@ -76,7 +76,7 @@ So finden Sie einen bevorstehenden Protest:
 **🇨🇦 Canada**
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
-## Other lists and resources
+## Andere Listen und Ressourcen
 - [HelpUaNow](https://www.helpuanow.org/). Hat kleinere Wohltätigkeitsorganisationen
 - [Help Ukraine Now](https://helpukrainenow.info/). Schön gestaltet
 - [Stand With Ukraine](https://standforukraine.com/). Eine kategorisierte Liste von Wohltätigkeitsorganisationen, die die Ukraine unterstützen
