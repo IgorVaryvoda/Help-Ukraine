@@ -91,6 +91,25 @@ module.exports = {
           }
         ]
       },
+      '/de/': {
+        editLinkText: 'Seite bearbeiten',
+        selectText: 'Sprache',
+        label: 'Deutsch',
+        nav: [
+          {
+            text: 'Helfen Sie der Armee',
+            link: '/de/help/#helfen-sie-der-ukrainischen-armee',
+          },
+          {
+            text: 'Hilfe für Flüchtlinge',
+            link: '/de/help/#helfen-sie-ukrainischen-fluchtlingen'
+          },
+          {
+            text: 'Russlands Kriegsverbrechen',
+            link: 'https://www.nurnberg2022.org/en'
+          }
+        ]
+      },
       '/sr/': {
         editLinkText: 'Уреди страницу',
         selectText: 'Језик',
@@ -138,6 +157,10 @@ module.exports = {
     '/ua/': {
       lang:'uk',
       title: 'Допоможи Україні'
+    },
+    '/de/': {
+      lang:'de',
+      title: 'Helfen Sie der Ukraine'
     },
     '/pl/': {
       lang:'pl',
