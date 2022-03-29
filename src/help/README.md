@@ -9,6 +9,7 @@ sidebar: auto
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
+  - [AeroRozvidka](https://aerorozvidka.xyz/). Specialist drone unit that fight like geniuses, but are forced to [crowdfund supplies](https://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv)
   - [Kolo](https://koloua.com/en/). Kolo quickly supplies the essential equipment to ukrainian soldiers in hot spots
   - [Leleka](https://leleka.care/). First aid kits
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)

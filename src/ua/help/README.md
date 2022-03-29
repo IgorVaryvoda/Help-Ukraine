@@ -11,6 +11,7 @@ sidebar: auto
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
 ## Допомогти ЗСУ
   - [Повернись живим](https://savelife.in.ua/en/donate/)
+  - [Аеророзвідка](https://aerorozvidka.xyz/). Геніальні спеціалісти, вдень допомагають запалити ворожу авіацію та ракети, а вночі палять кацапів гранатами зкинутими з дронів. Хлопці та дівчата дуже залежать від краудфандінгу, не пошкодуйте пару гривень чи долярів.
   - [Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [Рахунок НБУ для допомоги ЗСУ](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
   - [Коло](https://koloua.com/en/). Швидко організовуємо допомогу ЗСУ, доставляємо необхідне обладнання українським воїнам в пекельних точках
