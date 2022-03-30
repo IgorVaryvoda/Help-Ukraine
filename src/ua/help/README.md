@@ -78,7 +78,7 @@ sidebar: auto
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [Путіна - під трибунал](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
-- [🚫🛢️Ban Russian Oil Imports](https://www.change.org/p/president-biden-ban-russian-oil-import-stop-the-war)
+- [Etsy для Українців](https://chng.it/cRSrcj8y8t)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)

@@ -76,6 +76,7 @@ Here's how to find an upcoming protest:
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 - [A list of petitions to to protect Ukraine from information warfare](https://github.com/stop-war-in-ukraine/stop-russia-it)
+- [Enable Ukrainians to open new stores on Etsy](https://chng.it/cRSrcj8y8t)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)

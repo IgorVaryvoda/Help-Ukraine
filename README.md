@@ -11,9 +11,11 @@
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
+  - [AeroRozvidka](https://aerorozvidka.xyz/). Specialist drone unit that fight like geniuses, but are forced to [crowdfund supplies](https://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv)
   - [Kolo](https://koloua.com/en/). Kolo quickly supplies the essential equipment to ukrainian soldiers in hot spots
   - [Leleka](https://leleka.care/). First aid kits
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+  - [Car for Army](https://www.carforarmy.in.ua/). Donate a car to Ukrainian defenders
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets
   - [🪖Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) Don't like what you see? Have military experience? Help stop Russian orcs with your expertise
@@ -32,8 +34,8 @@
 - [UA Aid Centers](https://ua-aid-centers.com/). Send humanitarian supplies
 - [Dove of Peace for Ukraine](https://www.doveofpeace.ch/en). Swiss association founded with the aim of alleviating the suffering of the Ukrainian population affected by the war.
 - [Help Ukraine Center](https://helpukraine.center/). A Storage Center in Poland for humanitarian and medical aid for Ukraine
-- [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - a decentralized organization helping refugees
-- [🗺️Mapa Help](https://mapahelp.me/) - a map where you can offer help with transport, food, places to stay for Ukrainian refugees
+- [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)). A decentralized organization helping refugees
+- [🗺️Mapa Help](https://mapahelp.me/). A map where you can offer help with transport, food, places to stay for Ukrainian refugees
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing
 - [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
@@ -75,6 +77,8 @@ Here's how to find an upcoming protest:
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
+- [A list of petitions to to protect Ukraine from information warfare](https://github.com/stop-war-in-ukraine/stop-russia-it)
+- [Enable Ukrainians to open new stores on Etsy](https://chng.it/cRSrcj8y8t)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
