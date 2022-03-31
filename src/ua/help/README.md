@@ -79,6 +79,8 @@ sidebar: auto
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [Путіна - під трибунал](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 - [Etsy для Українців](https://chng.it/cRSrcj8y8t)
+- [Відкрити Stripe для України](https://www.change.org/p/open-stripe-for-ukraine)
+
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
