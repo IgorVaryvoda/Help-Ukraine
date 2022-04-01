@@ -18,3 +18,51 @@
         left 0
         width 100%
         height 100%
+.card
+    background-color #fff
+    border-radius 0.5rem
+    box-shadow 0.05rem 0.1rem 0.3rem -0.03rem rgba(0, 0, 0, 0.45)
+    padding-bottom 1rem
+    overflow hidden
+    img
+        border-radius 0.5rem 0.5rem 0 0
+        width 100%
+        -o-object-fit cover
+        object-fit cover
+        max-height max(10rem, 30vh)
+        aspect-ratio 4/3
+        mix-blend-mode var(--card-blend-mode)
+        & ~ *
+            margin-left 1rem
+            margin-right 1rem
+    & > :last-child
+        margin-bottom 0
+    h3
+        margin-top 1rem
+        font-size 1.25rem
+    a
+        color inherit
+
+.card:hover, .card:focus-within
+    --card-gradient #3d89cb max(8.5rem, 15vh)
+    --card-blend-mode overlay
+    --card-gradient rgba(0, 0, 0, 0.8)
+    --card-gradient #0084cc, #fce10b
+    background-image linear-gradient(var(--card-gradient), white max(7.5rem, 19vh))
+
+*
+    box-sizing border-box
+
+
+.card-wrapper
+    list-style none
+    padding 0
+    margin 0
+    display grid
+    grid-template-columns repeat(auto-fit, minmax(25ch, 1fr))
+    grid-gap 1.5rem
+    max-width 85vw
+    width 120ch
+    // padding-left 1rem
+    // padding-right 1rem
+
