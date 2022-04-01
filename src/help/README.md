@@ -47,18 +47,18 @@ sidebar: auto
 
 ## Help animals in Ukraine
 - [UAnimals](https://linktr.ee/uanimals). UAnimals help animal shelters financially, provide them with food and try to evacuate animals to other countries
-- [Happy Paw Shelter](https://happypaw.ua/en/contribution). Help homeless cats and dogs
+- [Happy Paw Shelter](https://happypaw.ua/en/contribution) help homeless cats and dogs
 - [Sirius Shelter](https://linktr.ee/sirius.shelter). Biggest homeless animal shelter in Ukraine
 - [Ugolyok Shelter](https://patreon.com/ShelterUgolyok). A non-profit shelter for all animals across the country of Ukraine that are in need of rescue and protection
 - [Shelter Friend](http://dryg.org.ua/eng/help/). A rehabilitation center for homeless animals in Dnipro, Ukraine. More donation methods on their [facebook page](https://www.facebook.com/shelterFriendDnepr)
-- [Kyiv Animal Rescue](https://patreon.com/karg). A team of volunteers with wide experience in industrial alpinism, professional digging and climbing. We have teamed together to save animals from emergencies in Kyiv
-- [Vet Crew](https://patreon.com/VetCrew). A family of exotic animal vets that decided to stay in Ukraine and help all the animals in need of help. More [donation options here](https://readymag.com/vetcrew/3469187/)
+- [Kyiv Animal Rescue](https://patreon.com/karg). A team of volunteers with wide experience in industrial alpinism, professional digging and climbing that teamed up to save animals from emergencies in Kyiv
+- [Vet Crew](https://patreon.com/VetCrew). A family of exotic animal vets that decided to stay in Ukraine and help all the animals they can. More [donation options here](https://readymag.com/vetcrew/3469187/)
 - [Ukrainian Equestrian Foundation](https://helpukrainehorses.eu). A special account and hotline opened to support Ukraine´s equestrian community, save horses and raise funds for Ukraine´s defenders
 - [Bear Sanctuary](https://bearsanctuary-domazhyr.org/ways-to-give). A bear sanctuary that helps pets affected by war with food, medication and vet care
 - [XII Months Zoo](http://helpzoo12.org). A zoo near Kyiv that is in desperate need of support.
-- [ifaw](https://ifaw.org/eu/news/emergency-aid-ukraine) helps refugee pets.
+- [ifaw](https://ifaw.org/eu/news/emergency-aid-ukraine) help refugee pets.
 - [UAAA](http://uaaa.org.ua/en/donate/index). Ukrainian association of animal advocates
-- [Kotomistechko](https://linktr.ee/kotomistechko). A cat shelter in Kyiv zoo
+- [Kotomistechko](https://linktr.ee/kotomistechko). A cat shelter in Kyiv Zoo
 - [Mykolaiv Zoo](https://widget.kontramarka.ua/uk/widget353site12031/widget/index). Buy a ticket to support Mykolaiv Zoo
 - [Nishan Kooner Fundraiser](https://fundrazr.com/11xoQ0?ref=ab_8B6NRb_ab_AkrJNYhNvEIAkrJNYhNvEI). A volunteer from Canada who came to Ukraine to save animals
 
