@@ -46,7 +46,7 @@ sidebar: auto
 - [A list](https://hireforukraine.org/helpful-resources) of websites
 
 ## Help animals in Ukraine
-- [UAnimals](https://linktr.ee/uanimals). UAnimals help animal shelters financially, provide them with food and try to evacuate animals to other countries
+- [UAnimals](https://linktr.ee/uanimals) help animal shelters financially, provide them with food and try to evacuate animals to other countries
 - [Happy Paw Shelter](https://happypaw.ua/en/contribution) help homeless cats and dogs
 - [Sirius Shelter](https://linktr.ee/sirius.shelter). Biggest homeless animal shelter in Ukraine
 - [Ugolyok Shelter](https://patreon.com/ShelterUgolyok). A non-profit shelter for all animals across the country of Ukraine that are in need of rescue and protection
