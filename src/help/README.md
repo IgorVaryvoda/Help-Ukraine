@@ -91,16 +91,19 @@ Here's how to find an upcoming protest:
 ## Petitions
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+- [Humanitarian Airlift & Corridors for Ukraine Now!](https://www.change.org/p/airlift-for-ukraine-now-abaerbock-olafscholz)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 - [Open Stripe to Ukraine](https://www.change.org/p/open-stripe-for-ukraine)
+- [Allow receiving money to Ukraine through PayPal](https://www.change.org/p/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D1%82%D1%8C-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-paypal-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-paypal)
 - [A list of petitions to to protect Ukraine from information warfare](https://github.com/stop-war-in-ukraine/stop-russia-it)
 - [Enable Ukrainians to open new stores on Etsy](https://chng.it/cRSrcj8y8t)
+- [For Ukraine to be officially recognized as a candidate state to the European Union](https://www.change.org/p/for-ukraine-to-be-officially-recognized-as-a-candidate-state-to-the-european-union)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
 - [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
 - [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
-
+- [Allow Ukraine refugees in the UK](https://www.change.org/p/allow-ukraine-refugees-in-the-uk)
 **🇨🇦 Canada**
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
 
