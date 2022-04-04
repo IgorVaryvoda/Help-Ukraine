@@ -47,6 +47,23 @@
 - [Fuzzboard](https://fuzzboard.com/ukraine). Tech jobs for anyone escaping Ukraine
 - [A list](https://hireforukraine.org/helpful-resources) of websites
 
+## Help animals in Ukraine
+- [UAnimals](https://linktr.ee/uanimals) help animal shelters financially, provide them with food and try to evacuate animals to other countries
+- [Happy Paw Shelter](https://happypaw.ua/en/contribution) help homeless cats and dogs
+- [Sirius Shelter](https://linktr.ee/sirius.shelter). Biggest homeless animal shelter in Ukraine
+- [Ugolyok Shelter](https://patreon.com/ShelterUgolyok). A non-profit shelter for all animals across the country of Ukraine that are in need of rescue and protection
+- [Shelter Friend](http://dryg.org.ua/eng/help/). A rehabilitation center for homeless animals in Dnipro, Ukraine. More donation methods on their [facebook page](https://www.facebook.com/shelterFriendDnepr)
+- [Kyiv Animal Rescue](https://patreon.com/karg). A team of volunteers with wide experience in industrial alpinism, professional digging and climbing that teamed up to save animals from emergencies in Kyiv
+- [Vet Crew](https://patreon.com/VetCrew). A family of exotic animal vets that decided to stay in Ukraine and help all the animals they can. More [donation options here](https://readymag.com/vetcrew/3469187/)
+- [Ukrainian Equestrian Foundation](https://helpukrainehorses.eu). A special account and hotline opened to support Ukraine´s equestrian community, save horses and raise funds for Ukraine´s defenders
+- [Bear Sanctuary](https://bearsanctuary-domazhyr.org/ways-to-give). A bear sanctuary that helps pets affected by war with food, medication and vet care
+- [XII Months Zoo](http://helpzoo12.org). A zoo near Kyiv that is in desperate need of support.
+- [ifaw](https://ifaw.org/eu/news/emergency-aid-ukraine) help refugee pets.
+- [UAAA](http://uaaa.org.ua/en/donate/index). Ukrainian association of animal advocates
+- [Kotomistechko](https://linktr.ee/kotomistechko). A cat shelter in Kyiv Zoo
+- [Mykolaiv Zoo](https://widget.kontramarka.ua/uk/widget353site12031/widget/index). Buy a ticket to support Mykolaiv Zoo
+- [Nishan Kooner Fundraiser](https://fundrazr.com/11xoQ0?ref=ab_8B6NRb_ab_AkrJNYhNvEIAkrJNYhNvEI). A volunteer from Canada who came to Ukraine to save animals
+
 ## Get information from reliable sources & share it on social media
 - [Official Ukrainian website covering the war](https://war.ukraine.ua/)
 - [Shareable facts about the war](https://www.weareukraine.info/)
@@ -76,14 +93,19 @@ Here's how to find an upcoming protest:
 ## Petitions
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+- [Humanitarian Airlift & Corridors for Ukraine Now!](https://www.change.org/p/airlift-for-ukraine-now-abaerbock-olafscholz)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
+- [Open Stripe to Ukraine](https://www.change.org/p/open-stripe-for-ukraine)
+- [Allow receiving money to Ukraine through PayPal](https://www.change.org/p/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D1%82%D1%8C-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-paypal-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-paypal)
 - [A list of petitions to to protect Ukraine from information warfare](https://github.com/stop-war-in-ukraine/stop-russia-it)
 - [Enable Ukrainians to open new stores on Etsy](https://chng.it/cRSrcj8y8t)
+- [For Ukraine to be officially recognized as a candidate state to the European Union](https://www.change.org/p/for-ukraine-to-be-officially-recognized-as-a-candidate-state-to-the-european-union)
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
 - [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
 - [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
+- [Allow Ukraine refugees in the UK](https://www.change.org/p/allow-ukraine-refugees-in-the-uk)
 
 **🇨🇦 Canada**
 - [Block Russian Oil Imports](https://www.albertainstitute.ca/stand_with_ukraine_and_block_russian_oil)
