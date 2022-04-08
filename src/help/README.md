@@ -2,6 +2,9 @@
 sidebar: auto
 ---
 # How to Help Ukrainian people and army
+Without additional weaponry, Russo-Ukrainian war will become an endless bloodbath, spreading misery, suffering, and destruction.
+Please pressure your politicians into providing aid to Ukraine. Here's the [list of what Ukraine Needs](https://saveualist.com/)
+
 ## QR codes for quick donation
 
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
@@ -91,6 +94,7 @@ Here's how to find an upcoming protest:
 ## Petitions
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+- [International appeal to NATO to help Ukraine](https://actinukrainenow.org/)
 - [Humanitarian Airlift & Corridors for Ukraine Now!](https://www.change.org/p/airlift-for-ukraine-now-abaerbock-olafscholz)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 - [Open Stripe to Ukraine](https://www.change.org/p/open-stripe-for-ukraine)

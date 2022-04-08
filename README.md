@@ -9,6 +9,8 @@
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
 
 ## Help the Ukrainian army
+Without additional weaponry, Russo-Ukrainian war will become an endless bloodbath, spreading misery, suffering, and destruction.
+Please pressure your politicians into providing aid to Ukraine. Here's the [list of what Ukraine Needs](https://saveualist.com/)
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [AeroRozvidka](https://aerorozvidka.xyz/). Specialist drone unit that fight like geniuses, but are forced to [crowdfund supplies](https://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv)
@@ -89,10 +91,10 @@ Here's how to find an upcoming protest:
 - [Stop Putin](https://www.stopputin.net/). A website with a list of upcoming events
 - [Facebook Events](https://www.facebook.com/search/events/?q=ukraine)
 
-
 ## Petitions
 **🌎 Global**
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
+- [International appeal to NATO to help Ukraine](https://actinukrainenow.org/)
 - [Humanitarian Airlift & Corridors for Ukraine Now!](https://www.change.org/p/airlift-for-ukraine-now-abaerbock-olafscholz)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 - [Open Stripe to Ukraine](https://www.change.org/p/open-stripe-for-ukraine)
@@ -103,6 +105,7 @@ Here's how to find an upcoming protest:
 
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
+- [Seek to impose a no-fly zone over Ukraine](https://petition.parliament.uk/petitions/609437)
 - [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
 - [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
 - [Allow Ukraine refugees in the UK](https://www.change.org/p/allow-ukraine-refugees-in-the-uk)
