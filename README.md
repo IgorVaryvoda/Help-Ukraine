@@ -20,6 +20,7 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
   - [Car for Army](https://www.carforarmy.in.ua/). Donate a car to Ukrainian defenders
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets
+  - [Help buy bulletproof vests for the 95th Brigade in Ukraine](https://givebutter.com/95vests)
   - [🪖Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) Don't like what you see? Have military experience? Help stop Russian orcs with your expertise
 
 
