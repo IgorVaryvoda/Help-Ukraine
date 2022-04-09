@@ -103,6 +103,9 @@ Here's how to find an upcoming protest:
 - [Enable Ukrainians to open new stores on Etsy](https://chng.it/cRSrcj8y8t)
 - [For Ukraine to be officially recognized as a candidate state to the European Union](https://www.change.org/p/for-ukraine-to-be-officially-recognized-as-a-candidate-state-to-the-european-union)
 
+**🇪🇺 EU**
+- [The EU should take sanction against Russian NTV+ and Trikolor, censors of 8 news channels](https://secure.avaaz.org/community_petitions/en/l_union_europeenne_et_eutelsat_igo_pour_des_sanctions_contre_ntv_et_trikolor_censeurs_russes_de_l_information_pluraliste/)
+
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
 - [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
