@@ -40,6 +40,7 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing
 - [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
+- [Ukraina.space](https://www.ukraina.space/en/). Become a host for Ukrainian refugees
 
 
 ## Hire Ukrainians
