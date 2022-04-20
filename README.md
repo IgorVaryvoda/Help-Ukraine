@@ -84,7 +84,7 @@ If you're more technical, you can use scripts like [this](https://github.com/MHP
 ## Don't fund war
 Boycott companies still doing business in Russia
 - [Don't fund war](https://www.dontfundwar.com/). A list of companies still doing business in Russia
-- [Chrome extension](https://github.com/petrussola/boycott-brands-supporting-war) to boycott brands
+- [Chrome extension](https://chrome.google.com/webstore/detail/boycott-brands-refusing-t/dhmogilcchlbghpooilnehefmlpaemcl) to boycott brands that still do business with Russia. [Source code](https://github.com/petrussola/boycott-brands-supporting-war).
 
 ## Protest
 Protest against the barbaric Russian aggression. Show your support for Ukraine in your cities. Demand more sanctions for Russia and more aid to Ukraine from your government.
