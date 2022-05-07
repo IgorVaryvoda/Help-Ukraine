@@ -9,8 +9,6 @@
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
 
 ## Help the Ukrainian army
-Without additional weaponry, Russo-Ukrainian war will become an endless bloodbath, spreading misery, suffering, and destruction.
-Please pressure your politicians into providing aid to Ukraine. Here's the [list of what Ukraine Needs](https://saveualist.com/)
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [AeroRozvidka](https://aerorozvidka.xyz/). Specialist drone unit that fight like geniuses, but are forced to [crowdfund supplies](https://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv)
@@ -20,7 +18,6 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
   - [Car for Army](https://www.carforarmy.in.ua/). Donate a car to Ukrainian defenders
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets
-  - [Help buy bulletproof vests for the 95th Brigade in Ukraine](https://givebutter.com/95vests)
   - [🪖Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) Don't like what you see? Have military experience? Help stop Russian orcs with your expertise
 
 
@@ -42,6 +39,7 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). An independent platform connecting Ukrainian refugees with potential hosts and housing
 - [Shelter4Ukraine](https://sites.google.com/view/shelterforukraine/home). Provide shelter for Ukrainian refugees
 - [🏠Host Ukrainians and Help Locally](https://supportukrainenow.org/refuge-for-ukrainians)
+- [Ukraina.space](https://www.ukraina.space/en/). Become a host for Ukrainian refugees
 
 
 ## Hire Ukrainians
@@ -84,13 +82,14 @@ If you're more technical, you can use scripts like [this](https://github.com/MHP
 ## Don't fund war
 Boycott companies still doing business in Russia
 - [Don't fund war](https://www.dontfundwar.com/). A list of companies still doing business in Russia
-- [Chrome extension](https://chrome.google.com/webstore/detail/boycott-brands-refusing-t/dhmogilcchlbghpooilnehefmlpaemcl) to boycott brands that still do business with Russia. [Source code](https://github.com/petrussola/boycott-brands-supporting-war).
+- [Chrome extension](https://github.com/petrussola/boycott-brands-supporting-war) to boycott brands
 
 ## Protest
 Protest against the barbaric Russian aggression. Show your support for Ukraine in your cities. Demand more sanctions for Russia and more aid to Ukraine from your government.
 Here's how to find an upcoming protest:
 - [Stop Putin](https://www.stopputin.net/). A website with a list of upcoming events
 - [Facebook Events](https://www.facebook.com/search/events/?q=ukraine)
+
 
 ## Petitions
 **🌎 Global**
@@ -104,9 +103,11 @@ Here's how to find an upcoming protest:
 - [Enable Ukrainians to open new stores on Etsy](https://chng.it/cRSrcj8y8t)
 - [For Ukraine to be officially recognized as a candidate state to the European Union](https://www.change.org/p/for-ukraine-to-be-officially-recognized-as-a-candidate-state-to-the-european-union)
 
+**🇪🇺 EU**
+- [The EU should take sanction against Russian NTV+ and Trikolor, censors of 8 news channels](https://secure.avaaz.org/community_petitions/en/l_union_europeenne_et_eutelsat_igo_pour_des_sanctions_contre_ntv_et_trikolor_censeurs_russes_de_l_information_pluraliste/)
+
 **🇬🇧 UK**
 - [Pledge any necessary military support to defend Ukraine](https://petition.parliament.uk/petitions/607314)
-- [Seek to impose a no-fly zone over Ukraine](https://petition.parliament.uk/petitions/609437)
 - [Waive visa requirement for Ukrainian refugees](https://petition.parliament.uk/petitions/609530)
 - [UK Government: Urgent support for Ukrainian refugees](https://www.change.org/p/10downingstreet-urgent-support-for-ukrainian-refugees)
 - [Allow Ukraine refugees in the UK](https://www.change.org/p/allow-ukraine-refugees-in-the-uk)
