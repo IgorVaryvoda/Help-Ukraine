@@ -93,6 +93,7 @@ Here's how to find an upcoming protest:
 
 ## Petitions
 **🌎 Global**
+- [SAVE MARIUPOL](https://www.change.org/p/save-mariupol-192ea846-9fe1-476c-bb72-5474538c7c06)
 - [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [International appeal to NATO to help Ukraine](https://actinukrainenow.org/)
 - [Humanitarian Airlift & Corridors for Ukraine Now!](https://www.change.org/p/airlift-for-ukraine-now-abaerbock-olafscholz)
