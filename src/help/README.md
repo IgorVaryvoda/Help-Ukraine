@@ -11,7 +11,7 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
 
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
-  - [Prytula fundation](https://prytulafoundation.org/en). One of the biggest organizations that helps Ukrainian military with supplies, as well as humanitarian aid.
+  - [Prytula foundation](https://prytulafoundation.org/en). One of the biggest organizations that helps Ukrainian military with supplies, as well as humanitarian aid.
   - [Army SOS](https://armysos.com.ua/donate/). Help with modern tools and equipment.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [AeroRozvidka](https://aerorozvidka.xyz/). Specialist drone unit that fight like geniuses, but are forced to [crowdfund supplies](https://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv)
