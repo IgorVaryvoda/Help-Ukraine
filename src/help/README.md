@@ -11,13 +11,18 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
 
 ## Help the Ukrainian army
   - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
+  - [Prytula fundation](https://prytulafoundation.org/en). One of the biggest organizations that helps Ukrainian military with supplies, as well as humanitarian aid.
+  - [Army SOS](https://armysos.com.ua/donate/). Help with modern tools and equipment.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
   - [AeroRozvidka](https://aerorozvidka.xyz/). Specialist drone unit that fight like geniuses, but are forced to [crowdfund supplies](https://www.theguardian.com/world/2022/mar/28/the-drone-operators-who-halted-the-russian-armoured-vehicles-heading-for-kyiv)
   - [Kolo](https://koloua.com/en/). Kolo quickly supplies the essential equipment to ukrainian soldiers in hot spots
+  - [Hospitallers](https://www.hospitallers.life/needs-hospitallers). Volunteer paramedics helping save lives since 2014.
   - [Leleka](https://leleka.care/). First aid kits
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
   - [Car for Army](https://www.carforarmy.in.ua/). Donate a car to Ukrainian defenders
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army
+  - [Buy for a Ukrainian](https://buy4aukrainian.org/). Buy a uniform for a Ukrainian soldier.
+  - [DemSokyra](https://sokyra.space/en).
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets
   - [🪖Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) Don't like what you see? Have military experience? Help stop Russian orcs with your expertise
 
