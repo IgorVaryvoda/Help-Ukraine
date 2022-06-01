@@ -23,6 +23,7 @@ Please pressure your politicians into providing aid to Ukraine. Here's the [list
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army
   - [Buy for a Ukrainian](https://buy4aukrainian.org/). Buy a uniform for a Ukrainian soldier.
   - [DemSokyra](https://sokyra.space/en).
+  - [United24](https://u24.gov.ua/) was launched by the President of Ukraine Volodymyr Zelenskyy as the main venue for collecting charitable donations in support of Ukraine
   - [Donate crypto to Ukraine](https://twitter.com/Ukraine/status/1497594592438497282). Official government ฿BTC, ΞETH, $USDT wallets
   - [🪖Join Ukraine's foreign legion](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) Don't like what you see? Have military experience? Help stop Russian orcs with your expertise
 
@@ -99,10 +100,7 @@ Here's how to find an upcoming protest:
 
 ## Petitions
 **🌎 Global**
-- [SAVE MARIUPOL](https://www.change.org/p/save-mariupol-192ea846-9fe1-476c-bb72-5474538c7c06)
-- [❗Ask NATO to close the airspace over Ukraine](https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine)
 - [International appeal to NATO to help Ukraine](https://actinukrainenow.org/)
-- [Humanitarian Airlift & Corridors for Ukraine Now!](https://www.change.org/p/airlift-for-ukraine-now-abaerbock-olafscholz)
 - [Prosecute Putin for his war crimes](https://secure.avaaz.org/campaign/en/prosecute_putin_loc/?twi)
 - [Open Stripe to Ukraine](https://www.change.org/p/open-stripe-for-ukraine)
 - [Allow receiving money to Ukraine through PayPal](https://www.change.org/p/%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B8%D1%82%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0%D1%82%D1%8C-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8-%D1%87%D0%B5%D1%80%D0%B5%D0%B7-paypal-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0-paypal)
@@ -128,7 +126,8 @@ Here's how to find an upcoming protest:
 - [Stand With Ukraine](https://standforukraine.com/). A categorized list of charities that support Ukraine
 - [Another Curated List](https://github.com/dkuznetsov/help-ukraine) of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine
 - [Useful resources](https://github.com/EU-UA-Help/ua-help) for those who would like to help Ukrainian refugees
-
+- [NoWar.help](https://www.nowar.help/en)
+- [Stand with Ukraine supersite](https://how-you-can-support-ukraine.super.site)
 ## For developers
 - [Stop war widget](https://github.com/ukraine-not-war/stop-war)
 - [Ukrainian flag modal](https://github.com/hejny/Ukraine)
