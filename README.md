@@ -18,6 +18,7 @@
   - [Hospitallers](https://www.hospitallers.life/needs-hospitallers). Volunteer paramedics helping save lives since 2014.
   - [Leleka](https://leleka.care/). First aid kits
   - [Special Bank of Ukraine account to help the army](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+  - [Buy a fighter jet for Ukraine](https://buymeafighterjet.com/)
   - [Car for Army](https://www.carforarmy.in.ua/). Donate a car to Ukrainian defenders
   - [🛻Hell Rides](https://pekelnitachky.com/en). Donate money to purchase SUVs, pickup trucks and ATVs for the Armed Forces, Territorial Defense units, National Guard, and other military units of the Ukrainian Army
   - [Buy for a Ukrainian](https://buy4aukrainian.org/). Buy a uniform for a Ukrainian soldier.
