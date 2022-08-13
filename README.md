@@ -9,7 +9,7 @@
 ![List of QR codes to help Ukraine](https://cdn.earthroulette.com/help-ukraine/QR.png)
 
 ## Help the Ukrainian army
-  - [Come back alive fund](https://savelife.in.ua/en/donate/). The most trusted NGO for helping the Ukrainian army
+  - [Come back alive fund](https://savelife.in.ua/en/donate-en/). The most trusted NGO for helping the Ukrainian army
   - [Prytula foundation](https://prytulafoundation.org/en). One of the biggest organizations that helps Ukrainian military with supplies, as well as humanitarian aid.
   - [Army SOS](https://armysos.com.ua/donate/). Help with modern tools and equipment.
   - [Donate to the Organization for Development, Security and Sustainment](https://odss.ee/blog/help-ukraine)
