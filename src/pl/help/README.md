@@ -30,7 +30,6 @@ sidebar: auto
 - [Polska Pomoc Medyczna](https://pmm.org.pl/chce-pomoc) zbiera pieniądze na pomoc medyczną na Ukrainie
 - [Specjalne konto fundraisingowe na pomoc humanitarną dla Ukraińców dotkniętych rosyjską agresją](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄Pełna lista zasobów](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub) dla uchodźców i osób, które chcą pomóc - grup i społeczności w sieci z informacjami dla uchodźców i osób, które chcą im pomóc
-- [UA Aid Centers](https://ua-aid-centers.com/). Wyślij pomoc humanitarną
 - [Dove of Peace for Ukraine](https://www.doveofpeace.ch/en). Szwajcarskie stowarzyszenie założone w celu ulżenia cierpieniom dotkniętej wojną ludności ukraińskiej
 - [Help Ukraine Center](https://helpukraine.center/). Magazyn w Polsce dla pomocy humanitarnej i medycznej dla Ukrainy
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - zdecentralizowana organizacja pomagająca uchodźcom
@@ -42,9 +41,7 @@ sidebar: auto
 
 
 ## Oferty pracy
-- [Hire for Ukraine](https://hireforukraine.org/). Do wypożyczenia teczki Ukraińców
 - [UaTalents](https://www.uatalents.com/). Opublikuj ofertę pracy dla Ukraińców
-- [Lista](https://hireforukraine.org/helpful-resources) stron internetowych
 
 ## Nie finansuj wojny
 Bojkotują firmy nadal prowadzące interesy w Rosji

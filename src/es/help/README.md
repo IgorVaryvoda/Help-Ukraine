@@ -28,7 +28,6 @@ sidebar: auto
 - [Help.gov.ua](https://help.gov.ua/en). Sitio web oficial de Ucrania para la ayuda humanitaria
 - [Cuenta especial de recaudación de fondos para la asistencia humanitaria a los ucranianos afectados por la agresión de Rusia](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄Una lista completa de recursos](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub) para refugiados y personas que desean ayudar: grupos y comunidades en toda la web con información para refugiados y personas que desean ayudarlos.
-- [UA Aid Centers](https://ua-aid-centers.com/). Enviar suministros humanitarios
 - [Paloma de la paz para Ucrania](https://www.doveofpeace.ch/en). Asociación suiza fundada con el objetivo de aliviar el sufrimiento de la población ucraniana afectada por la guerra
 - [Help Ukraine Center](https://helpukraine.center/). Un centro de almacenamiento en Polonia para ayuda humanitaria y médica para Ucrania
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)). Una organización descentralizada que ayuda a los refugiados
@@ -39,10 +38,8 @@ sidebar: auto
 
 
 ## Contratar a ucranianos
-- [Hire for Ukraine](https://hireforukraine.org/). Portafolios de ucranianos disponibles para alquilar
 - [UaTalents](https://www.uatalents.com/). Publica una oferta de trabajo para ucranianos
 - [Fuzzboard](https://fuzzboard.com/ukraine). Trabajos tecnológicos para cualquiera que escape de Ucrania
-- [Una lista de sitios web](https://hireforukraine.org/helpful-resources)
 
 ## Obtenga información de fuentes confiables y compártala en las redes sociales
 - [Sitio web oficial de Ucrania que cubre la guerra](https://war.ukraine.ua/)

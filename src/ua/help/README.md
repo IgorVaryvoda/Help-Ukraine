@@ -33,20 +33,16 @@ sidebar: auto
 - [Список ресурсів для біженців та тих, хто хоче допомогти](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub)
 - [Прихисток](https://prykhystok.in.ua/). Пошук житла на території України
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). Пошук житла в ЄС
-- [shelter4ua](https://www.shelter4ua.com/ua). Пошук житла в ЄС
 - [UkraineSupport](https://ukrainesupport.net/uk/). Пошук житла в Польщі
 - [Прихистіть Українців та допомога на місцях](https://supportukrainenow.org/refuge-for-ukrainians)
-- [UA Aid Centers](https://ua-aid-centers.com/). Збір гуманітарної допомоги
 - [Голуб миру для України](https://www.doveofpeace.ch/uk) - Швейцарська асоціація для гуманітарної допомоги Україні
 - [Help Ukraine Center](https://helpukraine.center/). Склад в Польщі для гум. допомоги
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)) - децентралізована організація для допомоги біженцям
 - [🗺️Mapa Help](https://mapahelp.me/). Карта, де можна попросити або запропонувати допомогу з житлом, транспортом та будь-чим
 
 ## Пошук роботи закордоном
-- [Hire for Ukraine](https://hireforukraine.org/)
 - [UaTalents](https://www.uatalents.com/). Робота в ЄС
 - [Fuzzboard](https://fuzzboard.com/ukraine). Для IT спеціалістів
-- [Cписок сайтів](https://hireforukraine.org/helpful-resources) для пошуку роботи
 - [Ще один список](https://infohelpua.com/#job)
 
 ## Бойкот компаній, які працюють з росією

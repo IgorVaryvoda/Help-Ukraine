@@ -25,19 +25,15 @@ sidebar: auto
 - [Списак ресурса за избеглице и оне који желе да помогну](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub)
 - [Склониште](https://prykhystok.in.ua/). Тражите становање у Украјини
 - [Ukraine Take Shelter](https://www.ukrainetakeshelter.com/). Смештај у ЕУ
-- [shelter4ua](https://www.shelter4ua.com/ua). Смештај у ЕУ
 - [UkraineSupport](https://ukrainesupport.net/uk/). Смештај у Пољској
 - [Склоните Украјинце и помозите на терену](https://supportukrainenow.org/refuge-for-ukrainians)
-- [UA Aid Centers](https://ua-aid-centers.com/). Прикупљање хуманитарне помоћи
 - [Голуб мира за Украјину](https://www.doveofpeace.ch/uk) - Швајцарско удружење за хуманитарну помоћ Украјини
 - [Help Ukraine Center](https://helpukraine.center/). Складиште у Пољској за хуманитарну помоћ
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)). Децентрализована организација за помоћ избеглицама
 - [🗺️Mapa Help](https://mapahelp.me/). Мапа на којој можете затражити или понудити помоћ око становања, превоза и било чега
 
 ## Тражење посла
-- [Hire for Ukraine](https://hireforukraine.org/)
 - [UaTalents](https://www.uatalents.com/). Рад у ЕУ
-- [Списак сајтова](https://hireforukraine.org/helpful-resources) за тражење посла
 - [Списак сајтова](https://infohelpua.com/#job)
 
 ## Бојкотујте компаније које раде са Русијом

@@ -28,7 +28,6 @@ sidebar: auto
 - [Help.gov.ua](https://help.gov.ua/en). Offizielle ukrainische Website für humanitäre Hilfe
 - [Spezielles Spendenkonto für humanitäre Hilfe für Ukrainer, die von Russlands Aggression betroffen sind](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 - [📄Eine umfassende Liste von Ressourcen](https://docs.google.com/document/d/e/2PACX-1vTjRW9pjBPA9lBjZDm6FOH1EXrxRMrnHkYnkjdZ15DjEUamyOd3nNVW47jyBHo5rKHcvF73xbmURthV/pub) für Flüchtlinge und Menschen, die helfen möchten - Gruppen und Gemeinschaften im ganzen Internet mit Informationen für Flüchtlinge und Menschen, die ihnen helfen möchten
-- [UA Aid Centers](https://ua-aid-centers.com/). Senden Sie humanitäre Hilfsgüter
 - [DFriedenstaube für die Ukraine ](https://www.doveofpeace.ch/en). Schweizerischer Verein gegründet mit dem Ziel, das Leid der vom Krieg betroffenen ukrainischen Bevölkerung zu lindern.
 - [Help Ukraine Center](https://helpukraine.center/). Ein Lagerzentrum in Polen für humanitäre und medizinische Hilfe für die Ukraine
 - [Ukraine Now](https://www.ukrainenow.org/#googtrans(uk|en)). Eine dezentrale Organisation, die Flüchtlingen hilft
@@ -39,10 +38,8 @@ sidebar: auto
 
 
 ## Ukrainer einstellen
-- [Hire for Ukraine](https://hireforukraine.org/). Portfolios von Ukrainern können gemietet werden
 - [UaTalents](https://www.uatalents.com/). Veröffentlichen Sie ein Stellenangebot für Ukrainer
 - [Fuzzboard](https://fuzzboard.com/ukraine). TTech-Jobs für alle, die aus der Ukraine fliehen
-- [Eine Liste](https://hireforukraine.org/helpful-resources) von Webseiten
 
 ## Holen Sie sich Informationen aus zuverlässigen Quellen und teilen Sie sie in sozialen Medien
 - [Offizielle ukrainische Website zum Krieg](https://war.ukraine.ua/)
